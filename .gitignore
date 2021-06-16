@@ -1,0 +1,7 @@
+#exclude files
+package-lock.json
+start.sh
+start.ps1
+
+# exclude directories
+node_modules
