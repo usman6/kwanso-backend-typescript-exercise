@@ -1,0 +1,6 @@
+{
+    "nodeEnv": "development",
+    "host": "localhost",
+    "port": 8080,
+    "baseUrl": "/"
+}
